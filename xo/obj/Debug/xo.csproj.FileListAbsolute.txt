@@ -1,0 +1,27 @@
+c:\users\s24-vp\documents\visual studio 2015\Projects\xo\xo\bin\Debug\xo.exe.config
+c:\users\s24-vp\documents\visual studio 2015\Projects\xo\xo\bin\Debug\xo.exe
+c:\users\s24-vp\documents\visual studio 2015\Projects\xo\xo\bin\Debug\xo.pdb
+c:\users\s24-vp\documents\visual studio 2015\Projects\xo\xo\obj\Debug\xo.Form1.resources
+c:\users\s24-vp\documents\visual studio 2015\Projects\xo\xo\obj\Debug\xo.Properties.Resources.resources
+c:\users\s24-vp\documents\visual studio 2015\Projects\xo\xo\obj\Debug\xo.csproj.GenerateResource.Cache
+c:\users\s24-vp\documents\visual studio 2015\Projects\xo\xo\obj\Debug\xo.exe
+c:\users\s24-vp\documents\visual studio 2015\Projects\xo\xo\obj\Debug\xo.pdb
+C:\Users\Roman\Desktop\xo\xo\bin\Debug\xo.exe.config
+C:\Users\Roman\Desktop\xo\xo\obj\Debug\xo.exe
+C:\Users\Roman\Desktop\xo\xo\obj\Debug\xo.pdb
+C:\Users\Roman\Desktop\xo\xo\bin\Debug\xo.exe
+C:\Users\Roman\Desktop\xo\xo\bin\Debug\xo.pdb
+C:\Users\Roman\Desktop\xo\xo\obj\Debug\xo.Form1.resources
+C:\Users\Roman\Desktop\xo\xo\obj\Debug\xo.Properties.Resources.resources
+C:\Users\Roman\Desktop\xo\xo\obj\Debug\xo.csproj.GenerateResource.Cache
+C:\Users\Roman\Desktop\xo\xo\obj\Debug\xo.csprojResolveAssemblyReference.cache
+C:\Users\kurulo\Desktop\прорамування\xo\xo\bin\Debug\xo.exe.config
+C:\Users\kurulo\Desktop\прорамування\xo\xo\bin\Debug\xo.exe
+C:\Users\kurulo\Desktop\прорамування\xo\xo\bin\Debug\xo.pdb
+C:\Users\kurulo\Desktop\прорамування\xo\xo\obj\Debug\xo.csprojResolveAssemblyReference.cache
+C:\Users\kurulo\Desktop\прорамування\xo\xo\obj\Debug\xo.Form1.resources
+C:\Users\kurulo\Desktop\прорамування\xo\xo\obj\Debug\xo.Properties.Resources.resources
+C:\Users\kurulo\Desktop\прорамування\xo\xo\obj\Debug\xo.csproj.GenerateResource.Cache
+C:\Users\kurulo\Desktop\прорамування\xo\xo\obj\Debug\xo.csproj.CoreCompileInputs.cache
+C:\Users\kurulo\Desktop\прорамування\xo\xo\obj\Debug\xo.exe
+C:\Users\kurulo\Desktop\прорамування\xo\xo\obj\Debug\xo.pdb
